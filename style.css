@@ -1,0 +1,16 @@
+ .bg-img-size{
+    background-color: #000;
+    width: 600px;
+    height: 400px;
+    background-size: 100%;
+} 
+.bg-img1{     
+    background-image: url('/p1.jpg');   
+  
+}
+.bg-img2{    
+    background-image: url('/p2.jpg'); 
+}
+.bg-img3{ 
+    background-image: url('p3.jpg');
+  }
